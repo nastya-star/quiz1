@@ -1,2 +1,2 @@
 # quiz1
-###Stepanenko Nastya
+Stepanenko Nastya
